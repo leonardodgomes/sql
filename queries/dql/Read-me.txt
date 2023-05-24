@@ -73,4 +73,6 @@ dql_basics.sql
   
 dql_basics_examples.sql
   SELECT
+  WHERE
+  ORDER
   
