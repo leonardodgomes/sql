@@ -1,11 +1,8 @@
 
 /*Some basic DML (Data Manipulation Language) examples. 
-Here are a few examples for each DML operation: SELECT, INSERT, UPDATE, and DELETE.
+Here are a few examples for each DML operation: INSERT, UPDATE, and DELETE.
  These examples assume a hypothetical "users" table with columns "id," "name," and "email." */
 
---SELECT example:
-    --This query retrieves all columns and rows from the "users" table.
-    SELECT * FROM users;
 
 -- INSERT example:
     --This query inserts a new row into the "users" table with the specified name and email values.
