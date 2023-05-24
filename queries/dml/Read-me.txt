@@ -1,5 +1,4 @@
 dml_advanced_examples.sas
-DML Examples:
 
   Inserting data:
     INSERT INTO
@@ -68,6 +67,9 @@ DML Examples:
 
 dml_basics.sql
 
-
+  Data Manipulation Language
+  INSERT
+  UPDATE
+  DELETE
 
 dml_basics_examples.sql
