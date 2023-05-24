@@ -1,1 +1,2 @@
-
+Data Manipulation Language
+DML is used for inserting, deleting, and updating data in a database. It is used to retrieve and manipulate data in a relational database. It includes INSERT, UPDATE, and DELETE. Let's discuss these commands one at a time.
