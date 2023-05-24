@@ -1,2 +1,73 @@
-Data Manipulation Language
-DML is used for inserting, deleting, and updating data in a database. It is used to retrieve and manipulate data in a relational database. It includes INSERT, UPDATE, and DELETE. Let's discuss these commands one at a time.
+dml_advanced_examples.sas
+DML Examples:
+
+  Inserting data:
+    INSERT INTO
+    
+  Updating data:
+    UPDATE
+    
+  Deleting data:
+    DELETE FROM
+    
+  Selecting data:
+    SELECT
+    WHERE
+    ORDER BY
+    LIMIT/OFFSET
+    GROUP BY
+    HAVING
+    JOIN
+  
+  Date Functions:
+    Calculating age:
+      DATEDIFF
+    Calculating the difference between dates:
+      DATEDIFF
+    Extracting parts of a date:
+      DATEPART
+    Adding or subtracting time from a date:
+      DATEADD
+    Formatting dates:
+      CONVERT
+  
+  String Manipulation Functions:
+    Concatenating strings:
+      CONCAT
+    Extracting substrings:
+      SUBSTRING
+    Replacing patterns in a string:
+      REPLACE
+    Converting string case:
+      UPPER
+      LOWER
+    Removing leading and trailing whitespace:
+      LTRIM
+      RTRIM
+  
+  Conditional Functions:
+    Categorizing data based on conditions:
+      CASE
+    Handling division by zero:
+      NULLIF
+    Combining conditions with logical operators:
+      AND
+      OR
+  
+  Aggregation Functions:
+    Calculating the median:
+      ROW_NUMBER
+     Computing weighted average:
+      SUM
+    Finding the mode:
+      GROUP BY
+      HAVING
+    Concatenating values into a list:
+      GROUP_CONCAT
+
+
+dml_basics.sql
+
+
+
+dml_basics_examples.sql
